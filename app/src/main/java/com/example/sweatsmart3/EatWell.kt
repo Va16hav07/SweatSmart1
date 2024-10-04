@@ -1,4 +1,4 @@
-package com.example.sweatsmart.ui
+package com.example.sweatsmart3.ui
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.Canvas
